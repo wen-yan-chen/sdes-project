@@ -54,23 +54,8 @@ sdes-project/
 - **Tkinter**：Python 自带的 GUI 库，通常随 Python 一起安装，无需额外配置。
 - **操作系统**：Windows / macOS / Linux 均可运行。
 
-**环境验证命令**：
 
-在项目根目录下执行：
-
-```bash
-python --version
-```
-
-如果显示 `Python 3.8+`（例如 `Python 3.13.5`），说明 Python 环境已就绪。
-
-如需确认 Tkinter 是否可用，可再执行：
-
-```bash
-python -m tkinter
-```
-
-如果弹出一个简单的 Tkinter 测试窗口，说明 GUI 环境正常。
+---
 
 ## 四、操作指南（逐关）
 
